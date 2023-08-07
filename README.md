@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm İlkay</h1>
 <h3 align="center">A Data Scientist from Turkey</h3>
+<img src="[https://media.giphy.com/media/3oz8xSFr4Uw7d3K0JW/source.gif](https://giphy.com/gifs/fiftyeightproducts-lol-tea-mugs-Y4KJN49bDfODnPk1mi)" align="right" width="400" height="250">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
