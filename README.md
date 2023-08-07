@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/zehra-ilkay-%c3%a7a%c4%9fan-36060b183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zehra-ilkay-%c3%a7a%c4%9fan-36060b183/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zehra-ilkay-%c3%a7a%c4%9fan-36060b183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zehra-ilkay-%c3%a7a%c4%9fan-36060b183/" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,5 +16,8 @@
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zehrailkaycagan&show_icons=true&locale=en&layout=compact" alt="zehrailkaycagan" /></p>
+
+<br />
+<br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zehrailkaycagan&show_icons=true&locale=en" alt="zehrailkaycagan" /></p>
